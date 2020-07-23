@@ -1,2 +1,2 @@
 ## Fill out the form
-{{<ref "index.html" >}}
+<ref "index.html" >
